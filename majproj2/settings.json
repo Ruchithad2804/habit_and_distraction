@@ -1,0 +1,14 @@
+{
+  "unproductive_apps": [
+    "youtube",
+    "instagram",
+    "facebook",
+    "tiktok",
+    "netflix",
+    "spotify",
+    "whatsapp",
+    "chrome"
+  ],
+  "usage_limit_minutes": 30,
+  "block_duration_minutes": 60
+}
